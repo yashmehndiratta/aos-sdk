@@ -1,0 +1,19 @@
+{
+  "name": "aos-sdk",
+  "version": "1.0.0",
+  "description": "Agent Operable Surface SDK",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "keywords": [
+    "aos",
+    "ai",
+    "agents",
+    "automation",
+    "protocol"
+  ],
+  "author": "Yash Mehendrata",
+  "license": "MIT",
+  "dependencies": {
+    "cross-fetch": "^4.0.0"
+  }
+}
