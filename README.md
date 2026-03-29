@@ -145,4 +145,8 @@ https://www.npmjs.com/package/@myrique/aos-sdk
 
 Agent Operable Surface (AOS) is a protocol for enabling AI systems to operate applications through structured intent-based execution.
 
+<<<<<<< HEAD
 AOS aims to become a universal interface between AI agents and software systems.
+=======
+AOS aims to become a universal interface between AI agents and software systems.
+>>>>>>> 508797b (Update README and bump version)
